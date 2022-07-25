@@ -1,0 +1,168 @@
+!SESSION 2022-07-23 20:56:25.722 -----------------------------------------------
+eclipse.buildId=4.24.0.I20220607-0700
+java.version=18.0.1.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2022-07-23 20:56:47.720
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-07-23 20:56:47.720
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3cf1b5fb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4598961d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-07-23 20:56:47.720
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7be85f15,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@48619f15,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2022-07-23 20:56:52.507
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\DELL'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jdt.core 4 969 2022-07-23 21:00:45.759
+!MESSAGE registration-jsp-jdbc-servlet-example does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2022-07-23 21:00:45.760
+!MESSAGE registration-jsp-jdbc-servlet-example does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2022-07-23 21:00:45.762
+!MESSAGE registration-jsp-jdbc-servlet-example does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2022-07-23 21:00:45.763
+!MESSAGE registration-jsp-jdbc-servlet-example does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2022-07-23 21:00:45.764
+!MESSAGE registration-jsp-jdbc-servlet-example does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2022-07-23 21:00:45.766
+!MESSAGE registration-jsp-jdbc-servlet-example does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2022-07-23 21:00:45.767
+!MESSAGE registration-jsp-jdbc-servlet-example does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2022-07-23 21:00:45.769
+!MESSAGE registration-jsp-jdbc-servlet-example does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2022-07-23 21:00:45.770
+!MESSAGE registration-jsp-jdbc-servlet-example does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2022-07-23 21:00:45.772
+!MESSAGE registration-jsp-jdbc-servlet-example does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2022-07-23 21:00:45.773
+!MESSAGE registration-jsp-jdbc-servlet-example does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2022-07-23 21:00:45.774
+!MESSAGE registration-jsp-jdbc-servlet-example does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2022-07-23 21:00:45.775
+!MESSAGE registration-jsp-jdbc-servlet-example does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2022-07-23 21:00:45.776
+!MESSAGE registration-jsp-jdbc-servlet-example does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2022-07-23 21:00:45.778
+!MESSAGE registration-jsp-jdbc-servlet-example does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2022-07-23 21:00:45.779
+!MESSAGE registration-jsp-jdbc-servlet-example does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2022-07-23 21:00:45.780
+!MESSAGE registration-jsp-jdbc-servlet-example does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2022-07-23 21:00:45.782
+!MESSAGE registration-jsp-jdbc-servlet-example does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2022-07-23 21:00:45.783
+!MESSAGE registration-jsp-jdbc-servlet-example does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2022-07-23 21:00:45.784
+!MESSAGE registration-jsp-jdbc-servlet-example does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2022-07-23 21:00:45.785
+!MESSAGE registration-jsp-jdbc-servlet-example does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2022-07-23 21:00:45.787
+!MESSAGE registration-jsp-jdbc-servlet-example does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2022-07-23 21:00:45.788
+!MESSAGE registration-jsp-jdbc-servlet-example does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2022-07-23 21:00:45.790
+!MESSAGE registration-jsp-jdbc-servlet-example does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2022-07-23 21:00:45.792
+!MESSAGE registration-jsp-jdbc-servlet-example does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2022-07-23 21:00:45.793
+!MESSAGE registration-jsp-jdbc-servlet-example does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2022-07-23 21:00:45.794
+!MESSAGE registration-jsp-jdbc-servlet-example does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2022-07-23 21:01:31.695
+!MESSAGE registration-jsp-jdbc-servlet-example does not exist
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2022-07-23 21:01:31.765
+!MESSAGE Failed while installing Dynamic Web Module 4.0.
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): registration-jsp-jdbc-servlet-example does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:574)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2503)
+	at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:2443)
+	at org.eclipse.jdt.internal.core.JavaProject.getRawClasspath(JavaProject.java:2486)
+	at org.eclipse.jst.j2ee.web.project.facet.WebFacetInstallDelegate.execute(WebFacetInstallDelegate.java:158)
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.callDelegate(FacetedProject.java:1477)
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:441)
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181)
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117)
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$5.run(FacetedProject.java:1099)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2380)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2405)
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChanges(FacetedProject.java:1109)
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProjectWorkingCopy.commitChanges(FacetedProjectWorkingCopy.java:2020)
+	at org.eclipse.wst.common.project.facet.ui.ModifyFacetedProjectWizard.performFinish(ModifyFacetedProjectWizard.java:400)
+	at org.eclipse.wst.web.ui.internal.wizards.NewProjectDataModelFacetWizard.performFinish(NewProjectDataModelFacetWizard.java:288)
+	at org.eclipse.wst.common.project.facet.ui.ModifyFacetedProjectWizard$3.run(ModifyFacetedProjectWizard.java:331)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2380)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2405)
+	at org.eclipse.wst.common.project.facet.ui.ModifyFacetedProjectWizard$4.run(ModifyFacetedProjectWizard.java:345)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2022-07-23 21:01:31.766
+!MESSAGE registration-jsp-jdbc-servlet-example does not exist
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2022-07-23 22:32:53.514
+!MESSAGE Several ports (8005, 8080) required by Tomcat v8.5 Server at localhost are already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).
