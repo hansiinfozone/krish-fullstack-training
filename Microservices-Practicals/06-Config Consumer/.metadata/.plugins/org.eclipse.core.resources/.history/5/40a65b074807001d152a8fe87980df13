@@ -1,2 +1,0 @@
-spring.cloud.config.uri = http://localhost:8191
-spring.config.import=optional:configserver:

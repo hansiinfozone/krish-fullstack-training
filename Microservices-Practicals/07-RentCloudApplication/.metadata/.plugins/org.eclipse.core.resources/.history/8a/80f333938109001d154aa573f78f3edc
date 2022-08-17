@@ -1,5 +1,0 @@
-package com.test.rentcloud.profileservice.repository;
-
-public class CustomerRepository {
-
-}

@@ -1,8 +1,0 @@
-
-spring:
-    cloud:
-        config:
-            allowOverride: true
-            failFast: true
-            overrideNone: false
-            overrideSystemProperties: false

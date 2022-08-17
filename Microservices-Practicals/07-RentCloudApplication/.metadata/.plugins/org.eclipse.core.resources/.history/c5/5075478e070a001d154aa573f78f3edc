@@ -1,8 +1,0 @@
-spring:
-  cloud:
-   config:
-    name: profile
-  jpa:
-    hibernate:
-      ddl-auto: update
-      

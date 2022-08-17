@@ -1,5 +1,0 @@
-package com.example.authorizationserver.Authorizationserver.config;
-
-public class WebSecurityConfiguration {
-
-}
