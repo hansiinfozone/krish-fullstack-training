@@ -1,0 +1,129 @@
+2022-07-19 14:26:34,083 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-19 14:27:00,729 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.config-consumer:configconsumer:0.0.1-SNAPSHOT @ D:\projects\configconsumer\configconsumer\pom.xml.
+2022-07-19 14:27:02,788 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /configconsumer/src/main/java
+2022-07-19 14:27:02,789 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /configconsumer/src/main/resources
+2022-07-19 14:27:02,797 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /configconsumer/src/main/resources
+2022-07-19 14:27:02,807 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /configconsumer/src/test/java
+2022-07-19 14:27:03,378 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2022-07-19 14:27:05,887 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 14:27:05,887 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 14:27:05,892 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-19 14:27:05,919 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-19 14:27:05,924 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 14:27:05,924 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 14:27:05,924 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\configconsumer\configconsumer\src\test\resources
+2022-07-19 14:28:01,683 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 14:28:01,683 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 14:28:01,686 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-19 14:28:01,692 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-19 14:28:01,695 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 14:28:01,695 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 14:28:01,696 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\configconsumer\configconsumer\src\test\resources
+2022-07-19 14:29:40,831 [Worker-7: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.config-consumer:configconsumer:0.0.1-SNAPSHOT @ D:\projects\configconsumer\configconsumer\pom.xml.
+2022-07-19 14:29:41,440 [Worker-7: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 14:29:41,440 [Worker-7: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 14:29:41,444 [Worker-7: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-19 14:29:41,444 [Worker-7: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-19 14:29:41,449 [Worker-7: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 14:29:41,449 [Worker-7: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 14:29:41,449 [Worker-7: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\configconsumer\configconsumer\src\test\resources
+2022-07-19 14:32:58,127 [Worker-1: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 14:32:58,127 [Worker-1: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 14:32:58,130 [Worker-1: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-19 14:32:58,148 [Worker-1: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-19 14:32:58,153 [Worker-1: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 14:32:58,153 [Worker-1: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 14:32:58,154 [Worker-1: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\configconsumer\configconsumer\src\test\resources
+2022-07-19 14:34:34,865 [Worker-17: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 14:34:34,866 [Worker-17: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 14:34:34,866 [Worker-17: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-19 14:34:34,866 [Worker-17: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-19 14:34:34,871 [Worker-17: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 14:34:34,871 [Worker-17: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 14:34:34,872 [Worker-17: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\configconsumer\configconsumer\src\test\resources
+2022-07-19 14:36:41,608 [Worker-19: Launching Executing install in D__projects_configconsumer_configconsumer] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\projects\configconsumer\configconsumer
+2022-07-19 14:36:41,609 [Worker-19: Launching Executing install in D__projects_configconsumer_configconsumer] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2022-07-19 14:40:27,627 [Worker-15: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.config-consumer:configconsumer:0.0.1-SNAPSHOT @ D:\projects\configconsumer\configconsumer\pom.xml.
+2022-07-19 14:40:28,238 [Worker-15: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 14:40:28,238 [Worker-15: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 14:40:28,243 [Worker-15: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-19 14:40:28,312 [Worker-15: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 14:40:28,313 [Worker-15: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 14:40:28,313 [Worker-15: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\configconsumer\configconsumer\src\test\resources
+2022-07-19 14:42:14,947 [Worker-25: Launching Executing clean in D__projects_configconsumer_configconsumer] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\projects\configconsumer\configconsumer
+2022-07-19 14:42:14,947 [Worker-25: Launching Executing clean in D__projects_configconsumer_configconsumer] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2022-07-19 14:42:24,014 [Worker-26: Launching Executing install in D__projects_configconsumer_configconsumer] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\projects\configconsumer\configconsumer
+2022-07-19 14:42:24,014 [Worker-26: Launching Executing install in D__projects_configconsumer_configconsumer] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2022-07-19 14:51:38,535 [Worker-27: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.config-consumer:configconsumer:0.0.1-SNAPSHOT @ D:\projects\configconsumer\configconsumer\pom.xml.
+2022-07-19 14:51:39,665 [Worker-27: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 14:51:39,666 [Worker-27: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 14:51:39,670 [Worker-27: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-19 14:51:39,692 [Worker-27: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-19 14:51:39,696 [Worker-27: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 14:51:39,696 [Worker-27: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 14:51:39,697 [Worker-27: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\configconsumer\configconsumer\src\test\resources
+2022-07-19 14:52:27,478 [Worker-30: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 14:52:27,479 [Worker-30: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 14:52:27,479 [Worker-30: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-19 14:52:27,483 [Worker-30: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-19 14:52:27,486 [Worker-30: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 14:52:27,486 [Worker-30: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 14:52:27,486 [Worker-30: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\configconsumer\configconsumer\src\test\resources
+2022-07-19 14:53:48,844 [Worker-30: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 14:53:48,844 [Worker-30: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 14:53:48,845 [Worker-30: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-19 14:53:48,860 [Worker-30: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-19 14:53:48,863 [Worker-30: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 14:53:48,863 [Worker-30: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 14:53:48,863 [Worker-30: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\configconsumer\configconsumer\src\test\resources
+2022-07-19 15:17:18,552 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 15:17:18,553 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 15:17:18,553 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-19 15:17:18,560 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-19 15:17:18,562 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 15:17:18,562 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 15:17:18,562 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\configconsumer\configconsumer\src\test\resources
+2022-07-19 15:19:10,320 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 15:19:10,320 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 15:19:10,320 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-19 15:19:10,327 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-19 15:19:10,329 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 15:19:10,329 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 15:19:10,329 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\configconsumer\configconsumer\src\test\resources
+2022-07-19 15:19:59,057 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 15:19:59,057 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 15:19:59,057 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-19 15:19:59,062 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-19 15:19:59,064 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 15:19:59,064 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 15:19:59,065 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\configconsumer\configconsumer\src\test\resources
+2022-07-19 15:21:17,809 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 15:21:17,809 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 15:21:17,810 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-19 15:21:17,816 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-19 15:21:17,818 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 15:21:17,818 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 15:21:17,818 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\configconsumer\configconsumer\src\test\resources
+2022-07-19 15:26:43,583 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 15:26:43,583 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 15:26:43,588 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-19 15:26:43,612 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-19 15:26:43,614 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 15:26:43,614 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 15:26:43,615 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\configconsumer\configconsumer\src\test\resources
+2022-07-19 15:27:32,537 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 15:27:32,537 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 15:27:32,538 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-19 15:27:32,560 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-19 15:27:32,561 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 15:27:32,562 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 15:27:32,562 [Worker-31: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\configconsumer\configconsumer\src\test\resources
+2022-07-22 14:52:38,558 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-22 14:53:59,406 [Worker-0: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 14:53:59,411 [Worker-0: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-22 14:53:59,417 [Worker-0: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-22 14:53:59,594 [Worker-0: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-22 14:53:59,598 [Worker-0: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 14:53:59,598 [Worker-0: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-22 14:53:59,598 [Worker-0: Launching ConfigconsumerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\configconsumer\configconsumer\src\test\resources
+2022-07-24 18:01:44,976 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

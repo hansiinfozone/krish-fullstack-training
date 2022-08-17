@@ -1,0 +1,13 @@
+#spring.config.import=optional:configserver:
+#spring.application.name = profile
+#spring.jpa.database-platform=org.hibernate.dialect.MySQL5Dialect
+#jpa.hibernate.ddl-auto= update
+
+
+spring:
+  application:
+    name: profile
+  jpa:
+    hibernate:
+      ddl-auto: update
+

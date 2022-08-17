@@ -1,0 +1,11 @@
+spring:
+  cloud:
+    config:
+      uri: http://localhost:8191
+      name: config-service
+
+  application:
+    name: profile
+  jpa:
+    hibernate:
+      ddl-auto: update

@@ -1,0 +1,18 @@
+package com.test.rentcloud.profileservice;
+
+import org.springframework.stereotype.Service;
+
+import com.test.rentcloud.commons.model.Customer;
+import com.test.rentcloud.profileservice.CustomerService;
+
+@Service
+public class CustomerServiceImpl implements CustomerService{
+
+	@Override
+	public Customer save(Customer customer) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	
+}

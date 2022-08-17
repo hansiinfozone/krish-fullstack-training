@@ -1,0 +1,8 @@
+com\example\demo\MainController.class
+com\example\demo\DemoApplication.class
+com\example\demo\StudentRepository.class
+com\example\demo\Student.class
+com\example\demo\StudentServices.class
+com\example\demo\StudentServiceImpl.class
+com\example\demo\StageEndpoint$Stage.class
+com\example\demo\StageEndpoint.class

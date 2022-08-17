@@ -1,0 +1,15 @@
+package com.test.rentcloud.profileservice.serviceImpl;
+
+import com.test.rentcloud.commons.model.Customer;
+import com.test.rentcloud.profileservice.service.CustomerService;
+
+public class CustomerServiceImpl implements CustomerService{
+
+	@Override
+	public Customer save(Customer customer) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	
+}
